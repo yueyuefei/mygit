@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Dec 28 11:08:21 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\Administrator\\Desktop\\test_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.rockontrol.test.msgTest
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|test>~com/~rockontrol/~lib/~commons-io-2.4.jar;<po|test>~com/~rockontrol/~lib/~commons-lang3-3.1.jar;<po|test>~com/~rockontrol/~lib/~hibernate-jpa-2.0-api-1.0.1.Final.jar;<po|test>~com/~rockontrol/~lib/~web-common-2.0-SNAPSHOT.jar;<po|test>~com/~rockontrol/~pojo/;<po|test>~com/~rockontrol/~test/~A.class;<po|test>~com/~rockontrol/~test/~appserverTest.class;<po|test>~com/~rockontrol/~test/~B.class;<po|test>~com/~rockontrol/~test/~expressionTest.class;<po|test>~com/~rockontrol/~test/~HealthLearnCode.class;<po|test>~com/~rockontrol/~test/~httpClientTest.class;<po|test>~com/~rockontrol/~test/~jarPathTest.class;<po|test>~com/~rockontrol/~test/~JasyptTest.class;<po|test>~com/~rockontrol/~test/~redisTest.class;<po|test>~com/~rockontrol/~test/~RKServiceTest.class;<po|test>~com/~rockontrol/~test/~SortTest$1.class;<po|test>~com/~rockontrol/~test/~SortTest.class;<po|test>~com/~rockontrol/~test/~TCPClient.class;<po|test>~com/~rockontrol/~test/~TqViewHour.class;<po|test>~com/~rockontrol/~test/~TqViewMobile.class;<po|test>~com/~rockontrol/~test/~TqViewMobileSimple.class;<po|test>~com/~rockontrol/~test/~unicodeTest.class;<po|test>~com/~rockontrol/~test/~UploadUtil.class;<po|test>~com/~rockontrol/~test/~WeatherAirRealtimeCacheData.class;<po|test>~com/~rockontrol/~test/~WeatherStationInfoNewBusiness$AirData.class;<po|test>~com/~rockontrol/~test/~WeatherStationInfoNewBusiness.class;<po|test>~com/~rockontrol/~utils/~Code.class;<po|test>~com/~rockontrol/~utils/~DataRecode_gzip.class;<po|test>~com/~rockontrol/~utils/~MD5.class;<po|test>~com/~rockontrol/~utils/~NewDataRecode_gzip.class;<po|test>~com/~rockontrol/~utils/~RedisTest.class;<po|test>~com/~rockontrol/~utils/~RedisUtils.class;<po|test>~com/~rockontrol/~mn.json;<po|test>~com/~rockontrol/~mn_gb.json;<jar|commons-io-2.4.jar>;<jar|hibernate-jpa-2.0-api-1.0.1.Final.jar>;<jar|web-common-2.0-SNAPSHOT.jar>
+includes=
